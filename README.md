@@ -64,8 +64,11 @@ If number of breaches is 0-4, the VaR system is in Green zone
 If number of breaches is 5-9, the VaR system is in Yellow zone
 If number of breaches is 10 or more, the VaR system is in Red zone
 
+References:
 
-You can find more details at
-https://finpricing.com/faq.html
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cfrm17/montecarlovar/downloads/MonteCarloVaR-14.pdf
+
 
  
