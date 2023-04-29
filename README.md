@@ -66,9 +66,5 @@ If number of breaches is 10 or more, the VaR system is in Red zone
 
 References:
 
-https://finpricing.com/lib/EqRangeAccrual.html
-
-https://bitbucket.org/cfrm17/montecarlovar/downloads/MonteCarloVaR-14.pdf
-
-
+https://finpricing.com/curveVolList.html
  
